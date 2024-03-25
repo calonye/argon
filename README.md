@@ -1,5 +1,19 @@
-**forked from solstice23/argon-theme** 
+# forked from solstice23/argon-theme
 
+
+
+## 优化方向
++ **修复BUG** - 修复明显的BUG
++ **程序兼容** - 跟着 WordPress 版本更新走
++ **交互优化** - 依据需要，适度调整界面视觉、功能交互
+
+# 更新日志
+
+## 202xxxxx v1.0.0（尝试修复）
++ 修复，导航栏菜单，当有二级菜单时候一级不可点击的问题。
+
++ 
+<details> <summary>以下为原作者内容，仅作借鉴</summary>
 ![Argon](https://cdn.jsdelivr.net/gh/solstice23/cdn@master/argon_new_animate.svg)
 
 **简体中文** | [繁體中文](README_tw.md) | [English](README_en.md) | [Russian](README_ru.md)
@@ -839,3 +853,6 @@ Argon 使用 [GPL V3.0](https://github.com/solstice23/argon-theme/blob/master/LI
 如果你觉得 Argon 主题不错，可以请我一杯咖啡来支持我的开发。
 
 ![微信捐赠码](https://img.solstice23.top/2020/03/07/fc4b804bf938b.png)
+
+
+</details>
