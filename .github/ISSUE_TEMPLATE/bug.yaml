@@ -1,6 +1,6 @@
 name: 🐞 Bug 反馈 / Bug report
-description: 反馈问题 / Report a bug
-title: "[🐞 Bug 反馈 / Bug report] <请在此处输入问题概要····>"
+description: 🐞 反馈问题 / Report a bug
+title: "[🐞 Bug] <title···>"
 labels: [bug]
 body:
   - type: markdown
