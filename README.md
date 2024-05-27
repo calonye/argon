@@ -1,5 +1,6 @@
-# forked from solstice23/argon-theme
+# 嗨~ 大家好 :wave: // #forked from solstice23/argon-th
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
 ## 优化方向
@@ -13,6 +14,15 @@
 + 修复，导航栏菜单，当有二级菜单时候一级不可点击的问题。
 
 + 
+
+## 捐赠
+
+如果你觉得主题改的还不错，可以请我一杯咖啡来支持我的开发。
+
+<img src="https://www.calonye.com/qrcode_wechatpay.png" alt="wechatpay 捐赠">
+
+
+
 <details> <summary>以下为原作者内容，仅作借鉴</summary>
 ![Argon](https://cdn.jsdelivr.net/gh/solstice23/cdn@master/argon_new_animate.svg)
 
