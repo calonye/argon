@@ -17,7 +17,7 @@ body:
       description: 出现 Bug 的主题版本（或该 Bug 最早出现时的主题版本）
       placeholder: "如 v1.0.0"
     validations:
-      required: true
+      required: False
   - type: dropdown
     id: issue-type
     attributes:
