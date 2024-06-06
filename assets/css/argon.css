@@ -49,8 +49,8 @@
     --breakpoint-md: 768px;
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px;
-    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    --font-family-sans-serif: "MiSans VF", MiSans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    --font-family-monospace: "MiSans VF", MiSans, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
 
 *,
@@ -62,7 +62,7 @@
 
 html
 {
-    font-family: sans-serif;
+    font-family: "MiSans VF", MiSans, sans-serif;
     line-height: 1.15;
 
     -webkit-text-size-adjust: 100%;
@@ -85,7 +85,7 @@ section
 
 body
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "MiSans VF", MiSans, 'Open Sans', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -250,7 +250,7 @@ code,
 kbd,
 samp
 {
-    font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    font-family: "MiSans VF", MiSans, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
     font-size: 1em;
 }
 
@@ -7639,7 +7639,7 @@ a.close.disabled
 
 .tooltip
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "MiSans VF", MiSans, 'Open Sans', sans-serif;
     font-size: .875rem;
     font-weight: 400;
     font-style: normal;
@@ -7786,7 +7786,7 @@ a.close.disabled
 
 .popover
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family:"MiSans VF", MiSans, 'Open Sans', sans-serif;
     font-size: .875rem;
     font-weight: 400;
     font-style: normal;
@@ -13702,7 +13702,7 @@ button.bg-darker:focus
 
 .text-monospace
 {
-    font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
+    font-family: "MiSans VF", MiSans, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
 }
 
 .text-justify
@@ -17704,7 +17704,7 @@ textarea[resize='horizontal']
 
 .navbar-nav .nav-link
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "MiSans VF", MiSans, 'Open Sans', sans-serif;
     font-size: .9rem;
     font-weight: 400;
 
