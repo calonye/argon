@@ -193,7 +193,7 @@ html.immersion-color.darkmode body {
 /* Main CSS */
 :root {
 	--card-radius: 4px;
-	--font: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica,
+	--font: "MiSans VF", MiSans, "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica,
 		Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimSun, sans-serif;
 }
 html.themecolor-toodark.darkmode {
@@ -316,7 +316,7 @@ article .post-content a.no-hover-underline:before {
 	display: none;
 }
 html:not(.disable-codeblock-style) article pre:not(.hljs-codeblock) {
-	font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
+	font-family: "MiSans VF", MiSans, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
 		"DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier,
 		monospace;
 	font-size: 14px;
@@ -352,7 +352,7 @@ article .post-content ins {
 	border-bottom: 1px solid;
 }
 html:not(.disable-codeblock-style) article code:not([hljs-codeblock-inner]) {
-	font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
+	font-family: "MiSans VF", MiSans, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
 		"DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier,
 		monospace;
 	color: #5e6687;
@@ -2643,7 +2643,7 @@ html.darkmode .comment-upvote {
 	opacity: 0.78;
 }
 .comment-item-text pre {
-	font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
+	font-family: "MiSans VF", MiSans, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
 		"DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier,
 		monospace;
 	font-size: 14px;
@@ -4616,7 +4616,7 @@ pre.hljs-codeblock .hljs-control i.fa {
 	pointer-events: none;
 	transition: all 0.2s ease;
 	font-size: 12px;
-	font-family: sans-serif;
+	font-family: "MiSans VF", MiSans, sans-serif;
 }
 .hljs-control-btn:hover:before {
 	opacity: 1;
