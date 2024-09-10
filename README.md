@@ -1,4 +1,4 @@
-# 嗨~ 大家好 :wave: // #forked from solstice23/argon-th
+# 嗨~ 大家好 :wave: // # forked from solstice23/argon-th
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -24,6 +24,8 @@
 
 
 <details> <summary>以下为原作者内容，仅作借鉴</summary>
+
+ 
 ![Argon](https://cdn.jsdelivr.net/gh/solstice23/cdn@master/argon_new_animate.svg)
 
 **简体中文** | [繁體中文](README_tw.md) | [English](README_en.md) | [Russian](README_ru.md)
